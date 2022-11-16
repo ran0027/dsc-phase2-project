@@ -79,8 +79,10 @@ For additional information, contact Rebecca Neel at rebecc.clark@gmail.com.
 
 ```
 ├── Data
-├── analysis.ipynb
-├── price_by_grade.png
 ├── README.md
+├── analysis.ipynb
+├── home_pic.jpeg
+├── presentation.pdf
+├── price_by_grade.png
 └── requirements.txt *for sharing via Binder
 ```
